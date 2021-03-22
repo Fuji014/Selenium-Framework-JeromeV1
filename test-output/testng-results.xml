@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18477" started-at="2021-03-22T01:45:31Z" finished-at="2021-03-22T01:45:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18477" started-at="2021-03-22T01:45:31Z" finished-at="2021-03-22T01:45:49Z">
+      <class name="co.testautomation.testcases.M7_Activity1_PG">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:co.testautomation.testcases.M7_Activity1_PG@63a65a25]" name="setupSuite" is-config="true" duration-ms="794" started-at="2021-03-22T01:45:30Z" finished-at="2021-03-22T01:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:co.testautomation.testcases.M7_Activity1_PG@63a65a25]" name="setup" is-config="true" duration-ms="8576" started-at="2021-03-22T01:45:31Z" finished-at="2021-03-22T01:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigateToRegister()[pri:1, instance:co.testautomation.testcases.M7_Activity1_PG@63a65a25]" name="navigateToRegister" duration-ms="1608" started-at="2021-03-22T01:45:40Z" finished-at="2021-03-22T01:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRegister -->
+        <test-method status="PASS" signature="register()[pri:2, instance:co.testautomation.testcases.M7_Activity1_PG@63a65a25]" name="register" duration-ms="3477" started-at="2021-03-22T01:45:41Z" finished-at="2021-03-22T01:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="navigateToLogin()[pri:3, instance:co.testautomation.testcases.M7_Activity1_PG@63a65a25]" name="navigateToLogin" duration-ms="1747" started-at="2021-03-22T01:45:45Z" finished-at="2021-03-22T01:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToLogin -->
+        <test-method status="PASS" signature="login()[pri:4, instance:co.testautomation.testcases.M7_Activity1_PG@63a65a25]" name="login" duration-ms="2166" started-at="2021-03-22T01:45:46Z" finished-at="2021-03-22T01:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:co.testautomation.testcases.M7_Activity1_PG@63a65a25]" name="tearDown" is-config="true" duration-ms="868" started-at="2021-03-22T01:45:49Z" finished-at="2021-03-22T01:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- co.testautomation.testcases.M7_Activity1_PG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
